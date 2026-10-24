@@ -1,0 +1,2 @@
+body { font-family: sans-serif; background: #f0f4f8; display: grid; place-items: center; height: 100vh; margin: 0; }
+.tarjeta { background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,.15); text-align: center; }
